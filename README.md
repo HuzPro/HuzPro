@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Python+test+infrastructure;Windows+UI+automation+%26+accessibility;pytest+plugin+author;Fast+feedback+loops+or+bust" alt="Python test infrastructure, Windows UI automation and accessibility, pytest plugin author" />
 
 <p>
-  <a href="https://www.linkedin.com/in/huzpro"><img src="https://img.shields.io/badge/LinkedIn-huzpro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/huzpro"><img src="https://img.shields.io/badge/Upwork-huzpro-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
   <img src="https://komarev.com/ghpvc/?username=HuzPro&style=for-the-badge&color=7aa2f7" alt="Profile views" />
 </p>
 
