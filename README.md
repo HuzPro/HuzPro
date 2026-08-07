@@ -23,29 +23,14 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash,git,github,githubactions,docker,sqlite,electron,vscode&perline=6" alt="Python, C++, C, JavaScript, Bash, Git, GitHub, GitHub Actions, Docker, SQLite, Electron, VS Code" />
 </div>
 
-## Featured
-
-<div align="center">
-  <a href="https://github.com/HuzPro/pytest-lanes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzPro&repo=pytest-lanes&theme=tokyonight&hide_border=true" alt="pytest-lanes" /></a>
-  <a href="https://github.com/HuzPro/pytest-uia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzPro&repo=pytest-uia&theme=tokyonight&hide_border=true" alt="pytest-uia" /></a>
-  <br/>
-  <a href="https://github.com/HuzPro/tk-uia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzPro&repo=tk-uia&theme=tokyonight&hide_border=true" alt="tk-uia" /></a>
-  <a href="https://github.com/HuzPro/parallel-video-transcoder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzPro&repo=parallel-video-transcoder&theme=tokyonight&hide_border=true" alt="parallel-video-transcoder" /></a>
-</div>
-
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuzPro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=HuzPro&theme=tokyonight&hide_border=true" height="170" alt="Contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuzPro&theme=tokyonight" width="100%" alt="Profile details" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzPro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuzPro&theme=tokyonight&no-frame=true&column=4&row=2" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuzPro&theme=tokyonight" width="32%" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuzPro&theme=tokyonight" width="32%" alt="Most committed language" />
+  <img src="https://streak-stats.demolab.com?user=HuzPro&theme=tokyonight&hide_border=true" width="32%" alt="Contribution streak" />
 </div>
 
 ## Activity
