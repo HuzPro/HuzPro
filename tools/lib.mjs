@@ -12,12 +12,12 @@ export const GLYPHS = join(ROOT, "tools", "glyphs.json");
 export const THEMES = {
   dark: {
     bg: "#070e11", edge: "#1b2b31", grid: "#11202a", ink: "#e2eef1", mute: "#8aa9b1",
-    faint: "#62808a", pop: "#6fd6e8", pop2: "#ff9bcd", glow1: "#13334a", glow2: "#3f1b47",
+    faint: "#62808a", pop: "#6fd6e8", pop2: "#3ec27f", glow1: "#13334a", glow2: "#0f3b26",
     glow3: "#1c4a44", chip: "#0c181d",
   },
   light: {
     bg: "#f4f9fb", edge: "#cfdfe5", grid: "#e1ecf0", ink: "#0f2a33", mute: "#4a5f67",
-    faint: "#5b757e", pop: "#1a6f80", pop2: "#a4377b", glow1: "#cdebf1", glow2: "#f3d8ea",
+    faint: "#5b757e", pop: "#1a6f80", pop2: "#17693f", glow1: "#cdebf1", glow2: "#d2ecdc",
     glow3: "#cdeee4", chip: "#ffffff",
   },
 };
